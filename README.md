@@ -9,8 +9,7 @@
 The Student Performance Prediction System is a Python-based machine learning project designed to analyze student-related data and predict academic performance. It demonstrates how data preprocessing, exploratory data analysis, and machine learning techniques can be used to understand student performance.
 
 
-
-This project was developed as part of a group academic project, with my primary contribution to development.
+This project was developed as part of a group academic project focused on applying machine learning techniques to predict student academic performance.
 
 
 
